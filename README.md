@@ -14,9 +14,10 @@ Atualmente trabalho como desenvolvedor C na **Digicare**, uma empresa focada em 
 
 ## Conecte-se Comigo
 
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/im-thiagoc/) 
 - 💻 [Projetos Públicos no GitHub](https://github.com/ThiagoC-Digicare)
-
+- 💻 [Meu GitHub Pessoal](https://github.com/im-ThiagoC)
+  
 Estou sempre aberto para colaborar em projetos inovadores na área de IoT e saúde, ou discutir novas ideias. Sinta-se à vontade para entrar em contato!
 
 ### Habilidades Principais:
